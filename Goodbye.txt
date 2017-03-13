@@ -1,0 +1,2 @@
+print(""Googbye")
+print(""bye,bye")
